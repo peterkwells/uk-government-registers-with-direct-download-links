@@ -1,4 +1,4 @@
-index-entry-number,entry-number,entry-timestamp,key,register,download link,text,registry,phase,copyright,fields
+index-entry-number,entry-number,entry-timestamp,key,register,download-link,text,registry,phase,copyright,fields
 47,47,2018-02-28T09:32:23Z,government-domain,government-domain,https://www.registers.service.gov.uk/registers/government-domain/download/success,Government domains that appear on the gov.uk domain,cabinet-office,beta,,government-domain;hostname;organisation;start-date;end-date
 46,46,2018-02-23T12:40:56Z,qualification-type,qualification-type,https://www.registers.service.gov.uk/registers/qualification-type/download/success,Types of qualification regulated by Ofqual,ofqual,beta,,qualification-type;name;start-date;end-date
 45,45,2018-02-23T12:40:25Z,qualification-sector-subject-area,qualification-sector-subject-area,https://www.registers.service.gov.uk/registers/qualification-sector-subject-area/download/success,Subjects of qualifications regulated by Ofqual,ofqual,beta,,qualification-sector-subject-area;parent-qualification-sector-subject-area;name;start-date;end-date
